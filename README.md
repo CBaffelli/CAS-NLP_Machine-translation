@@ -18,4 +18,4 @@ Data augmentation: [05_CAS_NLP_final_project_data_augmentation](https://github.c
 
 Python app script: [app](https://github.com/CBaffelli/CAS-NLP_Machine-translation/blob/main/app.py)
 
-Streamlit app: [CAS NLP - Translator)[https://cas-nlp-machine-translation.streamlit.app/]
+Streamlit app: (CAS NLP - Translator)[https://cas-nlp-machine-translation.streamlit.app/]
