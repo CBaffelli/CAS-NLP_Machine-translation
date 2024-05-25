@@ -13,3 +13,9 @@ Fine-tuning: [03_CAS_NLP_Final_project_multilingual_model_fine_tuning](https://g
 Benchmark and evaluation: [04_CAS_NLP_final_project_benchmark](https://github.com/CBaffelli/CAS-NLP_Machine-translation/blob/main/04_CAS_NLP_final_project_benchmark.ipynb)
 
 Data augmentation: [05_CAS_NLP_final_project_data_augmentation](https://github.com/CBaffelli/CAS-NLP_Machine-translation/blob/main/05_CAS_NLP_final_project_data_augmentation.ipynb)
+
+## Streamlit app 
+
+Python app script: [app](https://github.com/CBaffelli/CAS-NLP_Machine-translation/blob/main/app.py)
+
+Streamlit app: [CAS NLP - Translator)[https://cas-nlp-machine-translation.streamlit.app/]
