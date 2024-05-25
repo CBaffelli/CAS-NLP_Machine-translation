@@ -1,6 +1,6 @@
 # CAS NLP Multilingual machine translation project 
 
-This GitHub repository contains code used during the final project for the CAS in NLP offered by the University of Bern. 
+This GitHub repository contains code used during the final project for the CAS in NLP offered by the University of Bern in the years 2023-2024. 
 The goal of the project is the fine-tuning of a multilingual translation model from English into French, Spanish, Italian, Romanian, and Portuguese. 
 
 ## Colab notebooks
