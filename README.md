@@ -6,4 +6,6 @@ Dataset analysis: [02_CAS-NLP_final_project_data-preprocessing_and_analysis](htt
 
 Fine-tuning: [03_CAS_NLP_Final_project_multilingual_model_fine_tuning](https://github.com/CBaffelli/CAS-NLP_Machine-translation/blob/main/03_CAS_NLP_Final_project_multilingual_model_fine_tuning.ipynb)
 
+Benchmark and evaluation: [04_CAS_NLP_final_project_benchmark](https://github.com/CBaffelli/CAS-NLP_Machine-translation/blob/main/04_CAS_NLP_final_project_benchmark.ipynb)
+
 To add: data augmentation script
